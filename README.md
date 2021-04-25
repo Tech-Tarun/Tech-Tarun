@@ -16,7 +16,9 @@
 
 🌱 My hunger to learn and quick adoption of any tools and technologies makes me unique.
 
-🌱 I’m currently learning : Data Science, Machine Learning, Artificial Intelligence.
+🌱 I’m intrested in : Data Science, Machine Learning, Artificial Intelligence.
+
+🌱 I’m currently learning : Data Structures & Algorithms, Django.
 
 💻 I write code in python and do practice everyday with new projects.
 
