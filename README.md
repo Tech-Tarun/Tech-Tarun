@@ -1,3 +1,5 @@
+💻 Currently working as Technical Analyst at AU Small Finance Bank.
+
 🔭 I’m currently working on improving my coding skills.
 
 🌱 I’m interested in learning new technologies.
